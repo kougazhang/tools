@@ -24,7 +24,7 @@ digraph pic {
 
 ## dot 语法学习
 
-https://blog.zengrong.net/post/graphviz-brief/
++ 语法: https://leojhonsong.github.io/zh-CN/2020/03/12/Graphviz%E7%AE%80%E8%A6%81%E8%AF%AD%E6%B3%95/
 
 + 为组件加注释 `xlabel`
 
